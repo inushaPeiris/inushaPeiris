@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning bachelor of software engineering honours degree in OUSL.
 - 💞️ I’m looking to collaborate with an IT company as an intern to start my career.
 - 📫 How to reach me - https://www.linkedin.com/in/inusha-peiris-504391225/
-
+- YouTube: https://www.youtube.com/channel/UCAsnpQJidFPtRrv8yKxqzgg
+- Blog: https://medium.com/@inushaumayanthapeiris
