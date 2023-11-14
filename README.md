@@ -1,8 +1,4 @@
 - 👋 Hi, It's @inushaPeiris.
-- 👀 I’m interested in software development.
+- 👀 I’m interested in full-stack web development.
 - 🌱 Currently enrolled in a Bachelor of Software Engineering Honours degree at OUSL.
-- 💼 I’m actively seeking opportunities to collaborate with an IT company as an intern to kickstart my career in software development.
-- 🚀 Check out my GitHub profile for a closer look at my projects and coding journey: GitHub/inushaPeiris.
-- 📫 How to reach me - https://www.linkedin.com/in/inusha-peiris-504391225/
-- YouTube: https://www.youtube.com/channel/UCAsnpQJidFPtRrv8yKxqzgg
-- Blog: https://medium.com/@inushaumayanthapeiris
+- 🚀 Check out my GitHub profile for a closer look at my projects and coding journey.
