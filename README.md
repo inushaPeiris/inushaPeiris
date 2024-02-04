@@ -1,4 +1,3 @@
 - 👋 Hi, It's @inushaPeiris.
 - 👀 I’m interested in full-stack web development.
-- 🌱 Currently enrolled in a Bachelor of Software Engineering Honours degree at OUSL.
 - 🚀 Check out my GitHub profile and blog for a closer look at my projects and coding journey.
