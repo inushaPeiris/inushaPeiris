@@ -1,4 +1,8 @@
-- 👋 Hi, It's @inushaPeiris.
-- 👀 I’m interested in full-stack web development.
-- 🚀 Check out my GitHub profile and blog for a closer look at my projects and coding journey.
-  *Blog*: https://medium.com/@inushaumayanthapeiris
+Hi there, I'm @inushaPeiris 👋
+Welcome to my GitHub profile!
+
+🚀 Explore My Work
+GitHub Profile: inushaPeiris
+Portfolio Website: inushaPeiris Portfolio
+Blog: My Medium Blog
+Feel free to check out my projects and follow my coding journey through my blog. I'm always open to connecting with fellow developers and tech enthusiasts!
