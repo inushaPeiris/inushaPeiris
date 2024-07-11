@@ -1,8 +1,9 @@
-Hi there, I'm @inushaPeiris 👋
-Welcome to my GitHub profile!
+# Hi there👋, I'm @InushaPeiris #
+Welcome to my GitHub profile! I'm a Software Engineer interested in full-stack web development.
 
-🚀 Explore My Work
-GitHub Profile: inushaPeiris
-Portfolio Website: inushaPeiris Portfolio
-Blog: My Medium Blog
+## 🚀 Explore My Work ##
+* [**GitHub Profile:**](https://github.com/inushaPeiris)
+* [**Portfolio Website:**](https://inushapeiris-portfolio.netlify.app/)
+* [**Blog:**](https://medium.com/@inushaumayanthapeiris)  
+
 Feel free to check out my projects and follow my coding journey through my blog. I'm always open to connecting with fellow developers and tech enthusiasts!
