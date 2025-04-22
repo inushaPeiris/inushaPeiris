@@ -1,5 +1,5 @@
 # Hi there👋, I'm @InushaPeiris #
-Welcome to my GitHub profile! I'm a Software Engineer interested in full-stack web development.
+Welcome to my GitHub profile! I'm a Full-stack developer experienced in web development.
 
 ## 🚀 Explore My Work ##
 * [**GitHub Profile**](https://github.com/inushaPeiris)
